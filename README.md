@@ -13,11 +13,3 @@ Features :
     The navigation menu remains fixed at the top, providing quick access even while scrolling through the content.
   Interactive Buttons:
     A welcome screen with a 'Check Notifications' button that adds a dynamic feel to the user interface.
-
-Technologies Used :
-  >HTML5 for creating the structure of the webpage.
-  >CSS3 for styling the navigation menu and adding animations.
-  >JavaScript for interactive functionality, including smooth navigation and button actions.
-Usage:
-  Clone or download the repository.
-  Open the index.html file in a browser to see the interactive navigation menu in action.
